@@ -40,6 +40,6 @@ To accomplish this task an existing code needs to be refactored and probe that i
 
     2. _Disadvantage_
         - Original code is set for a small data sample.
-        - It does not code efficient.
+        - It does not code efficienttly the original code.
         - It uses much more memory.
         - Not easy to read.
