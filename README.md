@@ -25,21 +25,21 @@ To accomplish this task an existing code needs to be refactored and probe that i
 - *Refactoring: Advantages & Disadvantages*
 
     1. _Advantage_
-    - It makes the code more readeable.
-    - No new functionalily is added.
-    - It makes the code more efficient by improving the logic or usiing less memory.
+        - It makes the code more readeable.
+        - No new functionalily is added.
+        - It makes the code more efficient by improving the logic or usiing less memory.
     
     2. _Disadvantage_
-    - Time consuming
+        - Time consuming
 
 - _Original vs Refactored code_
     1. _Advantage_
-    - Original code provides a quick view of the logic.
-    - Outcome of the original code can be seen inmediately.
-    - Refactoring probe to be more efficient.
+        - Original code provides a quick view of the logic.
+        - Outcome of the original code can be seen inmediately.
+        - Refactoring probe to be more efficient.
 
     2. _Disadvantage_
-    - Original code is set for a small data sample.
-    - It does not code efficient.
-    - It uses much more memory.
-    - Not easy to read.
+        - Original code is set for a small data sample.
+        - It does not code efficient.
+        - It uses much more memory.
+        - Not easy to read.
