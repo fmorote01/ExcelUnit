@@ -5,13 +5,15 @@ Expands research of a data set to include the entire stock market over the last 
 To accomplish this task an existing code needs to be refactored and probe that it is more efficient.
     
 ### Results
-1. Year 2017 vs 2018
+#### 1. Year 2017 vs 2018
 - Daily volume of all stocks have decreased significantly.
 - Only two Tickers have probe that they are relatively strong: ENPH and RUN
 - The advise would be to reinvest on the two strong tickers
 
 ![2017](https://github.com/fmorote01/ExcelUnit/blob/main/Resources/2017%20Outcome.png)
 ![2018](https://github.com/fmorote01/ExcelUnit/blob/main/Resources/2018%20Outcome.png)
+#### 2. Refactoring Efficiency
+-   
 ## Summary
 - *Refactoring: Advantages & Disadvantages*
 
